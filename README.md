@@ -35,6 +35,7 @@ we will use this as our origin and build the operations server on this.
 ```
 
 ## Contributing
+This is a Starter code(template) developed from scratch for rapid prototyping and replication in Agile setting.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
